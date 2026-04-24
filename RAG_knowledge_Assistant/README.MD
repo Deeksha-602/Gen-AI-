@@ -4,14 +4,6 @@ This project implements a RAG-based question answering system using custom docum
 
 ---
 
-## 📸 UI Preview
-
-<p align="center">
-  <img src="ui.png" alt="App UI" width="700"/>
-</p>
-
----
-
 ## 🚀 Features
 
 - 📂 Upload PDF or TXT files  
