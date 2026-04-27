@@ -5,7 +5,7 @@ This section contains implementations of core Machine Learning and Deep Learning
 ---
 
 ## 🔗 Colab Notebook
-👉 https://colab.research.google.com/https://colab.research.google.com/drive/1c347rCiZQdQhboH7d3cUQ5eVbQtaVhzB#scrollTo=mb2ValDYmEam
+👉 https://colab.research.google.com/drive/1it_x8X8x8rhgGXYjlMlFpgmdhlQQUQQD#scrollTo=xFhLi_BDxOIy
 
 ---
 
